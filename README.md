@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spacetrippy&label=Profile%20views&color=0e75b6&style=flat" alt="spacetrippy" /> </p>
 
-- 🌱 I’m currently learning **Microservices, Kafka**
+- 🌱 I’m currently working **ReactJs, AngularJS, TypeScript, Java Spring**
 
 - 💬 Ask me about **Unity, Spring boot, Java**
 
